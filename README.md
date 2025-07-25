@@ -1,0 +1,1 @@
+Credit Risk Predictor is a Flask-based machine learning web application that predicts whether a loan applicant poses a high or low credit risk based on their financial and personal information. It uses trained models like Logistic Regression, Random Forest, and SVM to make real-time predictions through a simple and responsive web interface.
